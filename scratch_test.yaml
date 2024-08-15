@@ -1,0 +1,16 @@
+path: scratch
+train: D:\program\object detection\ultralytics-main\datasets\product_8.5_augment\images\train
+val: D:\program\object detection\ultralytics-main\datasets\product_8.5_augment\images\val
+
+names:
+  0:  paint stripping
+  1:  scratches 
+  2:  heterochromia  
+  3:  bulging  
+  4:  bumps  
+  5:  glue overflow  
+  6:  indentation
+  7:  dirt  
+
+
+

@@ -1,0 +1,15 @@
+path: aquarium
+train: D:\program\object detection\ultralytics-main\datasets\aquarium\images\train
+val: D:\program\object detection\ultralytics-main\datasets\aquarium\images\val
+
+names:
+  0:  fish
+  1:  jellyfish
+  2:  penguin
+  3:  puffin
+  4:  shark
+  5:  starfish
+  6:  stingray
+
+
+
